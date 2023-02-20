@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'fernstadregular';
+    src: url('fernstad_free_personal_use-webfont.woff2') format('woff2'),
+         url('fernstad_free_personal_use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
